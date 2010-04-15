@@ -1,7 +1,8 @@
 format 72
 "design"
-  revision 1
-  modified_by 100 "tyen"
+  revision 3
+  modified_by 34 "Sean"
+  java_root_dir "C:/Users/Sean/Documents/UMass/2009-2010/Spring/Computer Science/CS520/Design/UML/design/java/"
 
 
   
@@ -36,4 +37,5 @@ format 72
 
   mark_for_import
   
+  package_ref 134562 // User Store
 end
